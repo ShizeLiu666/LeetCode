@@ -26,7 +26,7 @@ int removeDuplicates(vector<int>& nums)
     int p1 = 0;
     for(int i = 1; i < nums.size(); i++)
     {
-        // Compare the latest unique element with current element
+        // compare the latest unique element with current element
         if(nums[i] != nums[p1])
         {
             p1++;
