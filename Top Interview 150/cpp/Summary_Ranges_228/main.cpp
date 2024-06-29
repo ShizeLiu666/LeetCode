@@ -34,8 +34,8 @@ vector<string> summaryRanges(vector<int>& nums)
         // {
         //     str = to_string(nums[left]);
         // }
-        // result.push_back(str);
         string str = (left != right)? to_string(nums[left]) + "->" + to_string(nums[right]) : to_string(nums[left]);
+        result.push_back(str);
         cout << str << endl;
         right++;
         left = right;
