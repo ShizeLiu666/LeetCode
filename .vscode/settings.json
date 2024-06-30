@@ -64,6 +64,13 @@
     "iostream": "cpp",
     "bitset": "cpp",
     "ios": "cpp",
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "__hash_table": "cpp",
+    "__split_buffer": "cpp",
+    "array": "cpp",
+    "deque": "cpp",
+    "initializer_list": "cpp",
+    "stack": "cpp",
+    "string_view": "cpp"
   }
 }
