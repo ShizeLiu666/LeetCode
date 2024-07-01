@@ -71,6 +71,7 @@
     "deque": "cpp",
     "initializer_list": "cpp",
     "stack": "cpp",
-    "string_view": "cpp"
+    "string_view": "cpp",
+    "__bit_reference": "cpp"
   }
 }
