@@ -72,6 +72,7 @@
     "initializer_list": "cpp",
     "stack": "cpp",
     "string_view": "cpp",
-    "__bit_reference": "cpp"
+    "__bit_reference": "cpp",
+    "algorithm": "cpp"
   }
 }
