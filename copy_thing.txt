@@ -19,7 +19,9 @@ int main()
 2. Compilation filenameormat
 
 g++ -std=c++11 [filename].cpp -o filename
+g++ -std=c++11 main.cpp -o main
 g++ [filename].cpp -o [filename] -std=c++17 && ./[filename]
+g++ main.cpp -o main -std=c++17 && ./main
 
 3. Github Format
     0. git status
