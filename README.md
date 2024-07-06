@@ -18,3 +18,5 @@ LeetCode
 | 169  | [Majority](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-interview-150) | [C++](./Top_Interview_150/cpp/Majority_Element_169/main.cpp) | Easy       |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150) | [C++](./Top_Interview_150/cpp/Rotate_Array_189/main.cpp) | Medium       |
 | 228  | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [C++](./Top_Interview_150/cpp/Summary_Ranges_228/main.cpp) | Easy       |
+
+| 274  | [H-Index](https://leetcode.com/problems/h-index/description/) | [C++](./Top_Interview_150/cpp/H_Index_274/main.cpp) | Medium       |
