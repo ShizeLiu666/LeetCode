@@ -19,3 +19,4 @@ LeetCode
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150) | [C++](./Top_Interview_150/cpp/Rotate_Array_189/main.cpp) | Medium       |
 | 228  | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [C++](./Top_Interview_150/cpp/Summary_Ranges_228/main.cpp) | Easy       |
 | 274  | [H-Index](https://leetcode.com/problems/h-index/description/) | [C++](./Top_Interview_150/cpp/H_Index_274/main.cpp) | Medium       |
+| 380  | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) | [C++](./Top_Interview_150/cpp/Insert_Delete_GetRandom_O(1)_380/main.cpp) | Medium       |
